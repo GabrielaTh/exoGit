@@ -8,7 +8,9 @@ FIJ Test des fonctions de **git**
 
 ## A faire
 
-[] clone
-[] commit
-[] pull/push
+## Fait
+
+* clone
+* commit
+* push
 
